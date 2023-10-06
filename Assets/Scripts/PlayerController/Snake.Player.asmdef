@@ -1,0 +1,16 @@
+{
+    "name": "Snake.Player",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e352c30ee5a0dbc43aeea65418e3faaf"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
